@@ -1,0 +1,2 @@
+# assetManagement
+Razor pages adminlte
